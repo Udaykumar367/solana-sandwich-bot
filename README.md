@@ -151,10 +151,6 @@ To add support for additional DEXs or trading strategies:
 2. Implement the DEX-specific swap detection in `strategies/sandwich.ts`
 3. Create swap instruction builders for the new DEX
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 - Solana and SPL Token developers
